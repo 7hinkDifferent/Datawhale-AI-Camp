@@ -8,3 +8,4 @@ Refs:
 - [intro](https://linklearner.com/activity/12/2/2)
 - [QA](https://datawhaler.feishu.cn/wiki/AOHyw6ftAinHVGkW21OciDoRnwf)
 - [handbook](https://www.kdocs.cn/l/copzennIUGsk)
+- [competition](http://competition.sais.com.cn/competitionDetail/532232/format)
